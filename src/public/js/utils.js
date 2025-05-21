@@ -1,0 +1,1 @@
+// Classe ultilitarias para o sistema
